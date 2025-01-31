@@ -3,8 +3,11 @@
 
 #include <jni.h>
 
+#include <array>
+#include <mutex>
 #include <memory>
 #include <string_view>
+#include <functional>
 
 namespace jb {
 
